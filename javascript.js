@@ -1,0 +1,1 @@
+alert('Hello my boss, I am youre own aplication!!!');
